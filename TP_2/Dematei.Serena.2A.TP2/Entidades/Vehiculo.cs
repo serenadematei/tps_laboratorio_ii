@@ -19,9 +19,9 @@ namespace Entidades
         {
             Chico, Mediano, Grande
         }
-        EMarca marca;
-        string chasis;
-        ConsoleColor color;
+        private EMarca marca;
+        private string chasis;
+        private ConsoleColor color;
 
         /// <summary>
         /// Inicializa los atributos 
@@ -61,7 +61,8 @@ namespace Entidades
             sb.AppendFormat("CHASIS: {0}\r\n", p.chasis);
             sb.AppendFormat("MARCA : {0}\r\n", p.marca.ToString());
             sb.AppendFormat("COLOR : {0}\r\n", p.color.ToString());
-            sb.AppendLine("---------------------");
+            sb.AppendLine("---------------------\n");
+            sb.AppendFormat("TAMAÑO : {0}", p.Tamanio);
 
             return sb.ToString();
         }
@@ -74,7 +75,9 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
-            return (v1.chasis == v2.chasis);
+
+           return (v1.chasis == v2.chasis);
+
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto

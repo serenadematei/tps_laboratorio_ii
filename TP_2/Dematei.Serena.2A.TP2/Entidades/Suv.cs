@@ -9,7 +9,7 @@ namespace Entidades
     public class Suv: Vehiculo
     {
         /// <summary>
-        /// Inicializa los atributos
+        /// Crea una instancia de tipo Suv con los atributos que recibe por parametro
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
@@ -40,9 +40,6 @@ namespace Entidades
 
             sb.AppendLine("SUV");
             sb.AppendLine(base.Mostrar()); 
-
-            sb.AppendFormat("TAMAÑO : {0}", this.Tamanio);
-            sb.AppendLine("");
             sb.AppendLine("---------------------");
 
             return sb.ToString();

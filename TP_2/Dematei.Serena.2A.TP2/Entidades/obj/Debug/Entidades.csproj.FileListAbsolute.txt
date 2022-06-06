@@ -17,3 +17,9 @@ C:\Users\seren\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyRefe
 C:\Users\seren\Downloads\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\seren\Downloads\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\seren\Downloads\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\seren\OneDrive\Documentos\GitHub\tps_laboratorio_ii\TP_2\Dematei.Serena.2A.TP2\Entidades\obj\Debug\Entidades.pdb
