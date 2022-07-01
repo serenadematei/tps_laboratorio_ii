@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seren\\source\\repos\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\seren\\OneDrive\\Documentos\\GitHub\\tps_laboratorio_ii\\TP_3\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seren\\source\\repos\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\seren\\OneDrive\\Documentos\\GitHub\\tps_laboratorio_ii\\TP_3\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seren\\source\\repos\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\seren\\OneDrive\\Documentos\\GitHub\\tps_laboratorio_ii\\TP_3\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\seren\\source\\repos\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\seren\\OneDrive\\Documentos\\GitHub\\tps_laboratorio_ii\\TP_3\\Dematei.Serena.2A.TP3\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\seren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seren\\source\\repos\\Dematei.Serena.2A.TP3\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\seren\\OneDrive\\Documentos\\GitHub\\tps_laboratorio_ii\\TP_3\\Dematei.Serena.2A.TP3\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seren\\AppData\\Roaming\\NuGet\\NuGet.Config",
